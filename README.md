@@ -1,7 +1,7 @@
 
 
 This is my personal page, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+clean, minimalistic design and a sticky sidebar with navigation-linked scrolling. The website can be reached at http://www4.ncsu.edu/~gshah/Gati%20Shah/index.html
 			
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
